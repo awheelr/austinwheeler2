@@ -7,7 +7,7 @@
 </div> */}
 
 document.addEventListener('DOMContentLoaded', function () {
-    var number = 8
+    var number = 10
 
         for (let i = 0; i < number; i++) {
             var gallery =
