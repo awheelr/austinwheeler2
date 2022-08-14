@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    var number = 12
+    var number = 14
 
         for (let i = 0; i < number; i++) {
             var gallery =
